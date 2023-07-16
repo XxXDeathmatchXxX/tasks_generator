@@ -8,7 +8,3 @@ def SuperFunction():
     return a
 
 
-a, b = SuperFunction()
-
-print(b)
-print("Ответ: ", a)
