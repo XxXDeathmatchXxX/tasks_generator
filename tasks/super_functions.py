@@ -1,10 +1,10 @@
 import random
-from tasks import stack_of_functions
+import tasks
 
 
 
 def SuperFunction():
-    a = random.choice(stack_of_functions)
+    a = random.choice(tasks.stack_of_functions)
     return a
 
 
