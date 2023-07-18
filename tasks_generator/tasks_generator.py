@@ -477,7 +477,12 @@ stack_of_functions = [random_logarythm_with_fractions_with_stepen_increment_figu
 
 
 
+def tasks_generator():
+    a = random.choice(stack_of_functions)
+    return a
 
 
 
 
+if __name__ == "__main__":
+    ...

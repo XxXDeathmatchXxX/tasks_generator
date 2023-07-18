@@ -1,5 +1,5 @@
 import random
-import tasks
+import tasks_generator
 
 
 
@@ -8,3 +8,5 @@ def SuperFunction():
     return a
 
 
+if __name__ == "__main__":
+    ...
