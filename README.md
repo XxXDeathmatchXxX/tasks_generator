@@ -34,6 +34,7 @@ print(answer)
 
 # Also you can use any logarythm function from the library as an example use random_logarythm()
 answer, task = tasks_generator.random_logarythm
+
 Investigate other functions for your own.
 A list of avilable functions:
 
