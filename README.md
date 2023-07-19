@@ -65,6 +65,10 @@ decrement_logarytms_new(),
 sum_logarytms_sum_stepen()
 
 
+
+
+
+
 Use [answer, task] variables
 
 # Documentation
