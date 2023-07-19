@@ -25,8 +25,11 @@ Here is an example of how you would generate logarythm tasks:
 import tasks_generator
 
 #generate random task:
+
 answer, task = tasks_generator.task_generator()
+
 print(task)
+
 print(answer)
 
 # Also you can use any logarythm function from the library as an example use random_logarythm()
