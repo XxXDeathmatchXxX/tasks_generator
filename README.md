@@ -1,4 +1,4 @@
-tasks_generator
+#tasks_generator
 
 
 A task generator, created for pupils, students and teachers for education. 
