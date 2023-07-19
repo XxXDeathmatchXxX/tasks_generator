@@ -12,7 +12,7 @@ Table of Contents
     Usage
     Documentation
 
-Installation
+# Installation
 
 The project can be install via pip
 
