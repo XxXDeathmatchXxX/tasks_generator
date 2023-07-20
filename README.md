@@ -38,8 +38,7 @@ answer, task = tasks_generator.random_logarythm
 Investigate other functions for your own.
 A list of avilable functions:
 
-
- random_logarythm_with_fractions_with_stepen_increment_figure(),
+random_logarythm_with_fractions_with_stepen_increment_figure(),
 random_logarythm_with_fractions_with_stepen_decrement_figure(),
 random_logarythm(), random_logarythm_with_fractions(), 
 random_logarythm_with_fractions_with_stepen(),
@@ -54,8 +53,12 @@ decrement_logarytms_new(),
 sum_logarytms_sum_stepen()
 
 
-
 Use [answer, task] variables
+ 
+ 
+
+
+
 
 # Documentation
 
