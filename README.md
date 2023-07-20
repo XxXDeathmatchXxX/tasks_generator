@@ -22,7 +22,17 @@ Usage
 
 Here is an example of how you would generate logarythm tasks:
 
-import tasks_generator
+
+
+ import tasks_generator
+   #generate random task:
+
+answer, task = tasks_generator.task_generator()
+
+print(task)
+
+print(answer)
+
 
 #generate random task:
 
