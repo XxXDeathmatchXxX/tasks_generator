@@ -45,21 +45,24 @@ Here is an example of how you would generate logarythm tasks:
 Investigate other functions for your own.
 A list of avilable functions:
 
-    random_logarythm_with_fractions_with_stepen_increment_figure(),  
-    random_logarythm_with_fractions_with_stepen_decrement_figure(),	
-    random_logarythm(),
-    random_logarythm_with_fractions(), 	
-    random_logarythm_with_fractions_with_stepen(),	
-    random_logarythm_stepen_slojenie(),
-    random_logarythm_stepen(),	
-    random_logarythm_stepen_umnojenie(),
-    random_logarythm_stepen_minus(), 
-    sum_logarytms_stepen(), 
-    sum_logarytms(), 
-    decrement_logarytms_stepen(),
-    decrement_logarytms(),
-    decrement_logarytms_new(), 
-    sum_logarytms_sum_stepen()
+    random_logarithm()
+    logarithm_multiplication()
+    logarithm_division()
+    random_logarithm_in_degree()
+    random_figure_in_logarithm_degree_multiplication()
+    random_figure_in_logarithm_degree_addition()
+    random_logarithm_in_degree_subtraction()
+    random_logarithm_with_fractions()
+    random_logarithm_with_fractions_in_degree()
+    random_logarithm_with_fractions_in_degree_subtraction()
+    random_logarithm_with_fractions_in_degree_addition()
+    logarithms_addition()
+    figure_in_logaritms_degree_addition()
+    figures_in_logaritms_degree_addition()
+    logarithms_subtraction()
+    logarithms_subtraction_new()
+    figure_in_logaritms_degree_subtarction()
+    figures_in_logaritms_degree_subtarction()
 
 
 Use [answer, task] variables
