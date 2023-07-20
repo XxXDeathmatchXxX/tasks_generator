@@ -18,7 +18,7 @@ The project can be install via pip
 
     pip install tasks-generator-new
 
-#Usage
+# Usage
 
 Here is an example of how you would generate logarythm tasks:
     
