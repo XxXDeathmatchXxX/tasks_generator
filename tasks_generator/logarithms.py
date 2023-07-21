@@ -147,6 +147,7 @@ def random_logarithm_in_degree_subtraction():
     return answer_of_logarithm, task
 
 
+
 #Задача № 12242
 def random_logarithm_with_fractions():
     list = [2, 3, 4, 8, 9, 16, 27, 81]
@@ -397,7 +398,7 @@ def figure_in_logaritms_degree_subtarction():
     base_of_logarithm2 = random.randint(2, 10)
     answer_of_logarithm2 = random.randint(0, 4)
     degree_of_logarithm2 = base_of_logarithm2**answer_of_logarithm2
-    answer = int(n**(k*math.log(degree_of_logarithm2, base_of_logarithm2) - m*math.log(degree_of_logarithm1, base_of_logarithm1)))
+    answer = format(n**(k*math.log(degree_of_logarithm2, base_of_logarithm2) - m*math.log(degree_of_logarithm1, base_of_logarithm1)), '.8')
     if m >= 2 and k < 2:
         task = f'Вычислите:' f'\({n}^'"{"f'(log_'"{" + str(base_of_logarithm2) + '}{' + str(degree_of_logarithm2) +\
            '})' "-" f'{m}*(log_'"{" + str(base_of_logarithm1) + '}{' + str(degree_of_logarithm1) + '})}\)'
@@ -425,7 +426,7 @@ def figures_in_logaritms_degree_subtarction():
     base_of_logarithm2 = random.randint(2, 10)
     answer_of_logarithm2 = random.randint(0, 4)
     degree_of_logarithm2 = base_of_logarithm2**answer_of_logarithm2
-    answer = int(n**(k*math.log(degree_of_logarithm2, base_of_logarithm2)) - o**(m*math.log(degree_of_logarithm1, base_of_logarithm1)))
+    answer = round(n**(k*math.log(degree_of_logarithm2, base_of_logarithm2)) - o**(m*math.log(degree_of_logarithm1, base_of_logarithm1)))
     if m >= 2 and k < 2:
         task = f'Вычислите:' f'\({n}^'"{"f'(log_'"{" + str(base_of_logarithm2) + '}{' + str(degree_of_logarithm2) +\
            '})}' "-" f'{o}^'"{"f'{m}*(log_'"{" + str(base_of_logarithm1) + '}{' + str(degree_of_logarithm1) + '})}\)'
