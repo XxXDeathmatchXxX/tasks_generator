@@ -444,28 +444,27 @@ def figures_in_logaritms_degree_subtarction():
     return answer, task
 
 
-task_1 = random_logarithm()
-task_2 = logarithm_multiplication()
-task_3 = logarithm_division()
-task_4 = random_logarithm_in_degree()
-task_5 = random_figure_in_logarithm_degree_multiplication()
-task_6 = random_figure_in_logarithm_degree_addition()
-task_7 = random_logarithm_in_degree_subtraction()
-task_8 = random_logarithm_with_fractions()
-task_9 = random_logarithm_with_fractions_in_degree()
-task_10 = random_logarithm_with_fractions_in_degree_subtraction()
-task_11 = random_logarithm_with_fractions_in_degree_addition()
-task_12 = logarithms_addition()
-task_13 = figure_in_logaritms_degree_addition()
-task_14 = figures_in_logaritms_degree_addition()
-task_15 = logarithms_subtraction()
-task_16 = logarithms_subtraction_new()
-task_17 = figure_in_logaritms_degree_subtarction()
-task_18 = figures_in_logaritms_degree_subtarction()
 
 
-stack_of_functions = [task_1, task_2, task_3, task_4, task_5, task_6, task_7, task_8, task_9, task_10, task_11,
-                      task_12, task_13, task_14, task_15, task_16, task_17, task_18]
+
+stack_of_functions = [random_logarithm(),
+logarithm_multiplication(),
+logarithm_division(),
+random_logarithm_in_degree(),
+random_figure_in_logarithm_degree_multiplication(),
+random_figure_in_logarithm_degree_addition(),
+random_logarithm_in_degree_subtraction(),
+random_logarithm_with_fractions(),
+random_logarithm_with_fractions_in_degree(),
+random_logarithm_with_fractions_in_degree_subtraction(),
+random_logarithm_with_fractions_in_degree_addition(),
+logarithms_addition(),
+figure_in_logaritms_degree_addition(),
+figures_in_logaritms_degree_addition(),
+logarithms_subtraction(),
+logarithms_subtraction_new(),
+figure_in_logaritms_degree_subtarction(),
+figures_in_logaritms_degree_subtarction()]
 
 
 def logarithm_generator():
