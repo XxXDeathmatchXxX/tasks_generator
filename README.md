@@ -20,25 +20,19 @@ The project can be install via pip
 
 # Usage
 
-Here is an example of how you would generate logarythm tasks:
+Here is an example of how you would generate logarithm tasks:
     
     import tasks_generator
 #generate random task:
 
-    answer, task = tasks_generator.task_generator()
+    answer, task = tasks_generator.logarithm_generator()
     print(task)
     print(answer)
 
 
-#generate random task:
-
-    answer, task = tasks_generator.task_generator()
-    print(task)
-    print(answer)
-
- Also you can use any logarythm function from the library as an example use random_logarythm()
+ Also you can use any logarythm function from the library as an example use random_logarithm()
  
-    answer, task = tasks_generator.random_logarythm
+    answer, task = tasks_generator.random_logarithm()
     print(task)
     print(answer)
 
@@ -63,7 +57,7 @@ A list of avilable functions:
     logarithms_subtraction_new()
     figure_in_logaritms_degree_subtarction()
     figures_in_logaritms_degree_subtarction()
-
+    logarithm_generator()
 
 Use [answer, task] variables
  
