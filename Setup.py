@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
-setup(name='tasks_generator_new',
-      version='0.0.1',
+setup(name='tasks_generator',
+      version='0.0.2',
       url='https://github.com/XxXDeathmatchXxX/tasks_generator.git',
       license='MIT',
       author='Kirill Kudinov',
