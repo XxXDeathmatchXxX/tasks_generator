@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
         name='tasks_generator',
-        version='0.0.2',
+        version='0.0.4',
         description='This module was written for education in math, by generating math tasks',
         author='Kirill Kudinov',
         license='MIT',

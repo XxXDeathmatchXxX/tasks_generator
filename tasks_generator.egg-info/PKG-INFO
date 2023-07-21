@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: tasks-generator
-Version: 0.0.2
+Version: 0.0.4
 Summary: This module was written for education in math, by generating math tasks
 Home-page: https://github.com/XxXDeathmatchXxX/tasks_generator.git
 Author: Kirill Kudinov
@@ -29,7 +29,7 @@ Table of Contents
 
 The project can be install via pip
 
-    pip install tasks-generator-new
+    pip install tasks-generator
 
 # Usage
 
