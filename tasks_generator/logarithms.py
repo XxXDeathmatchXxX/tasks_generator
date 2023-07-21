@@ -37,7 +37,6 @@ def logarithm_multiplication():
     elif m < 2 and k >= 2:
         task = f'Вычислите:' f'(\({k}*(log_'"{" + str(base_of_logarithm2) + '}{' + str(degree_of_logarithm2) + \
                '}))' "*" f'(log_'"{" + str(base_of_logarithm1) + '}{' + str(degree_of_logarithm1) + '})\)'
-
     return answer, task
 
 
