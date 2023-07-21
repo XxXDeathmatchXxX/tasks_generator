@@ -1,12 +1,19 @@
 from setuptools import setup, find_packages
 
-setup(name='tasks_generator_logarithm',
-      version='0.0.2',
-      url='https://github.com/XxXDeathmatchXxX/tasks_generator.git',
-      license='MIT',
-      author='Kirill Kudinov',
-      author_email='dr.kireal@yandex.ru',
-      description='Add static script_dir() method to pathlib.Path',
-      packages=find_packages(exclude=['random, math']),
-      long_description=open('README.md').read(),
-      zip_safe=False)
+
+setup(
+        name='tasks_generator',
+        version='0.0.2',
+        description='This module was written for education in math, by generating math tasks',
+        author='Kirill Kudinov',
+        license='MIT',
+        url='https://github.com/XxXDeathmatchXxX/tasks_generator.git',
+        packages=find_packages(exclude=['random, math']),
+        long_description=open('README.md').read(),
+        long_description_content_type='text/markdown',
+        classifiers=[
+            'Programming Language :: Python',
+            'Programming Language :: Python :: 3.9',
+            'Topic :: Software Development :: Libraries :: Python Modules',
+        ],
+    )

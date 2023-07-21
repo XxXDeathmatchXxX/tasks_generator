@@ -1,4 +1,4 @@
-# TasksGenerator
+# Tasks Generator
 
 
 A task generator, created for pupils, students and teachers for education. 
@@ -68,4 +68,4 @@ Use [answer, task] variables
 
 # Documentation
 
-#ToDo 
+#ToDo
