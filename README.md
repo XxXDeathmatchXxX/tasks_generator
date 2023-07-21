@@ -16,7 +16,7 @@ Table of Contents
 
 The project can be install via pip
 
-    pip install tasks-generator-new
+    pip install tasks-generator
 
 # Usage
 
