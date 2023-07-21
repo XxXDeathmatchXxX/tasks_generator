@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='tasks_generator',
+setup(name='tasks_generator_logarithm',
       version='0.0.2',
       url='https://github.com/XxXDeathmatchXxX/tasks_generator.git',
       license='MIT',
