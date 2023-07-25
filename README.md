@@ -22,7 +22,7 @@ The project can be install via pip
 
 Here is an example of how you would generate logarithm tasks:
     
-    import tasks_generator
+    from tasks_generator import logarithms
 #generate random task:
 
     answer, task = tasks_generator.logarithm_generator()
@@ -57,6 +57,8 @@ A list of avilable functions:
     logarithms_subtraction_new()
     figure_in_logaritms_degree_subtarction()
     figures_in_logaritms_degree_subtarction()
+    logarithm_addition_of_divisions()
+    logarithm_subtraction_of_divisions()
     logarithm_generator()
 
 Use [answer, task] variables
