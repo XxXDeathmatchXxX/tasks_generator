@@ -663,7 +663,7 @@ def logarithm_generator():
 
 
 if __name__ == "__main__":
-    logarithm_generator()
+    ...
 
 
 
