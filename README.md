@@ -30,7 +30,7 @@ Here is an example of how you would generate logarithm tasks:
     print(answer)
 
 
- Also you can use any logarythm function from the library as an example use random_logarithm()
+ Also you can use any logarithm function from the library as an example use random_logarithm()
  
     answer, task = tasks_generator.random_logarithm()
     print(task)
